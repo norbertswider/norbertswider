@@ -23,6 +23,3 @@
 
 ---
 
-###  Pinned Repositories
-- **[it-support-dns-ssl-toolkit](https://github.com/norbertswider/it-support-dns-ssl-toolkit)** — Practical Bash & PowerShell scripts for quick DNS, SPF/DKIM/DMARC, HTTP, and SSL/TLS diagnostics.
-- **[sql-data-validation-notes](https://github.com/norbertswider/sql-data-validation-notes)** — SQL queries used for application support data integrity checks, duplicate detection, and operational reporting.
